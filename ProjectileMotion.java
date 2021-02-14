@@ -8,7 +8,7 @@
 
 import java.util.Scanner;
 
-public class Mert_Yakincan {
+public class ProjectileMotion {
 
 	public static void main(String[] args) {
 
